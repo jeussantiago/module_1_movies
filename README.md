@@ -37,7 +37,8 @@ Our goal is to see if any movie genre(s) were consistently profitable over time.
 
 This chart was heavily influenced by the count of movies by genre in each year. For instance: when a small number of films were made during that year in a particular genre the average would be greatly affected by the individual movies. This analysis further proved to be difficult to interpret.
 
-<<"Top Three Movie Genres By Average Profitability: 2009 - 2018">>
+![Average Movie Profitability By Genre Over Time](https://user-images.githubusercontent.com/45886439/55345073-0733ef00-547d-11e9-9045-542df153a9d6.png)
+
 
 The above figure shows the top three movie genres by profitability over the last ten years. The reasoning behind this chart is to see if any particular genre(s) consistently outperform others overtime. For instance, Family, Animated, and Documentary films consistently appeared in the top three genre categories over time. We found the performance of documentaries to be surprising because they don't traditionally have wide releases. 
 
