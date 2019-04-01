@@ -13,7 +13,8 @@ The data for the movies over the last ten years was obtained through themoviedb 
 Many movies are flops in the sense that they lose money even though they have a high revenue. There seems to be an underlying cost to the theaters and banks, etc, after a movie is made that is not accounted for in the budget. This analysis focuses on trying to ease that loss and gives the highest chance of turning a profit in terms of movie genres.
 
 #Spectrum of the Profitability of Movies Given a budget
-(scatter plot)
+![UNADJUSTEDNONRAW_thumb_48](https://user-images.githubusercontent.com/45129935/55362435-f77dd000-54a7-11e9-8533-54102b782036.jpg)
+
 This graph shows the relationship between the budget of a movie and its profitability. It broke any preconceived notion that a higher budget meant a larger revenue which in turn leads to a larger profit. For example, Justice League, which was excluded from the graph had a budget of $500 mil and had a profitability of 1.31 times budget while Paranormal Activity, which was also not included in the plotting because it was a major outlier, had a budget of $15,000 and had a profitability of 12,890. Although these are outlier examples, many movies followed this pattern.
 
 Genre Analysis:
