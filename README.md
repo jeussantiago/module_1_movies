@@ -33,7 +33,7 @@ We then decided to focus on the middle 80% of data points by profitability to el
 
 Our goal is to see if any movie genre(s) were consistently profitable over time. The chart titled "Average Movie Profitability By Genre Over Time" displays the profitability of each genre's middle 80% of data points over time. This was our first attempt to see if any genres consistently performed well over time. 
 
-<<"Average Movie Profitability By Genre Over Time">>
+![Average Movie Profitability By Genre Over Time](https://user-images.githubusercontent.com/45886439/55345073-0733ef00-547d-11e9-9045-542df153a9d6.png)
 
 This chart was heavily influenced by the count of movies by genre in each year. For instance: when a small number of films were made during that year in a particular genre the average would be greatly affected by the individual movies. This analysis further proved to be difficult to interpret.
 
